@@ -1,9 +1,3 @@
-# Text backup files
-*.bak
-
-# Database
-*.sqlite3
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
